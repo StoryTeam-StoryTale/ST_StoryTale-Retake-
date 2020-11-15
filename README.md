@@ -11,6 +11,8 @@ I am Chinese,
 
 “www.fanyi.baidu” a fuckin 'rubbish
 
+I will release the first pixel image tomorrow
+
 这是一个2018年的废稿
 
 原名叫:UnderHell
@@ -20,3 +22,5 @@ I am Chinese,
 我是中国人
 
 "www.fanyi.baidu"是个**的垃圾
+
+我将在明天发布第一个像素图
